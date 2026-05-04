@@ -1,0 +1,1 @@
+[{"type": "income", "description": "Salary", "category": "Job", "amount": 50000.0}, {"type": "expense", "description": "Food", "category": "Daily needs", "amount": 3000.0}, {"type": "expense", "description": "Subscription", "category": "Daily needs", "amount": 5000.0}]
